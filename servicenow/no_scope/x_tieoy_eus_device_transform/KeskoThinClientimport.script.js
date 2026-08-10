@@ -16,8 +16,7 @@
  *     3) record update success check
  */
 
-// This activity is stopped now
-//This activity is taken over by kesko team
+
 (function() {
     try {
         action(glideRecord);
